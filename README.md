@@ -1,6 +1,4 @@
 - 👋 Привет, я @maax36
-- 👀 Пишу на html,css,js,jquery,php,mysql
-- 💞️ Ищу сотрудничество в Веб-студии
 - 📫 Как со мной связаться: https://t.me/mynickbusy
 
 <!---
